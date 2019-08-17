@@ -2984,7 +2984,7 @@ False
 ```
 直接{}符号
 dict()
-dict([('a':1),('b',2)])
+dict([('a':1),('b':2)])
 dict({'a':1,'b':2})
 dict.fromkeys(range(5),'abc')
 ```
